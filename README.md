@@ -8,7 +8,6 @@ Estudiante de tercer año de la Licenciatura en Informática y Desarrollo de Sof
 
 - **[Sistema de asistencias con reconocimiento facial](https://github.com/FacundoNicolasOrtizDominguez/sistema-asistencias-facial):** app de escritorio en Python que toma asistencia con la cámara, con prueba de vida y reportes. Trabajo en equipo; mi parte fue la capa de datos (`registro.py`) y sus pruebas.
 - **[StockPyME](https://github.com/FacundoNicolasOrtizDominguez/stockpyme):** sistema de stock y ventas en Python y SQLite, con roles, varias cajas en red local y reportes en PDF y Excel. Trabajo en equipo.
-- **[Salud Express](https://github.com/FacundoNicolasOrtizDominguez/salud-expres):** aplicación web de gestión de turnos médicos, presenciales y por videollamada, con pagos online. Trabajo en equipo.
 - **[Sudoku](https://github.com/FacundoNicolasOrtizDominguez/Sudoku):** juego clásico en Java, hecho con programación orientada a objetos.
 
 ## Tecnologías
